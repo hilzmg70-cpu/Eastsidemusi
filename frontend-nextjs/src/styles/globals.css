@@ -1,0 +1,11 @@
+
+body { margin: 0; font-family: sans-serif; }
+.download-btn {
+  display: block;
+  width: 100%;
+  padding: 16px;
+  background: red;
+  color: white;
+  text-align: center;
+}
+audio { width: 100%; }
